@@ -4,3 +4,4 @@ bqplot
 swift-sim
 roboticstoolbox-python
 ipywidgets
+sympy
