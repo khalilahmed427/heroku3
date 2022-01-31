@@ -1,0 +1,6 @@
+voila
+voila-material
+bqplot
+swift-sim
+roboticstoolbox-python
+ipywidgets
